@@ -14,3 +14,9 @@ An education company named X Education sells online courses to industry professi
 - RFinding the Optimal Cut-off Point 
 - Computing the Precision and Recall metrics
 - Making Predictions on Test Set 
+
+# Contents of the Folder
+- Lead Scoring Case Study.ipynb
+- Lead Scoring Case Study Summary
+- Assignment Subjective Questions
+- Lead Scoring Case Study Presentation
